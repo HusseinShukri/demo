@@ -1,6 +1,46 @@
 {
   "Cars": [
-    { "Brand": "BMW", "Type": "M4","Color": "White","Price": "20000", "image": "https://raw.githubusercontent.com/HusseinShukri/demo/master/gallery/BMW/M4.jpg"},
-    { "Brand": "BMW", "Type": "FABIA ","Color": "White","Price": "30000","image": "https://raw.githubusercontent.com/HusseinShukri/demo/master/gallery/SKODA/FABIA%20.jpg"}
+    {
+      "Brand": "BMW",
+      "Type": "M4",
+      "Color": "White",
+      "Price": "20000",
+      "image": "https://raw.githubusercontent.com/HusseinShukri/demo/master/gallery/BMW/M4.jpg"
+    },
+    {
+      "Brand": "BMW",
+      "Type": "I8",
+      "Color": "Selver",
+      "Price": "30000",
+      "image": "https://raw.githubusercontent.com/HusseinShukri/demo/master/gallery/BMW/I8.jpg"
+    },
+    {
+      "Brand": "BMW",
+      "Type": "X4",
+      "Color": "Red",
+      "Price": "25000",
+      "image": "https://raw.githubusercontent.com/HusseinShukri/demo/master/gallery/BMW/X4.jfif"
+    },
+    {
+      "Brand": "SKODA",
+      "Type": "FABIA ",
+      "Color": "White",
+      "Price": "20000",
+      "image": "https://raw.githubusercontent.com/HusseinShukri/demo/master/gallery/SKODA/FABIA%20.jpg"
+    },
+    {
+      "Brand": "SKODA",
+      "Type": "SCALA ",
+      "Color": "Blue",
+      "Price": "30000",
+      "image": "https://raw.githubusercontent.com/HusseinShukri/demo/master/gallery/SKODA/SCALA.jpg"
+    },
+    {
+      "Brand": "SKODA",
+      "Type": "SUPERB ",
+      "Color": "Selver",
+      "Price": "25000",
+      "image": "https://raw.githubusercontent.com/HusseinShukri/demo/master/gallery/SKODA/SUPERB.jpg"
+    }
   ]
 }
