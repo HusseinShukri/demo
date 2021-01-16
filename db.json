@@ -1,6 +1,6 @@
 {
-  "posts": [
-    { "Brand": "BMW", "Type": "M4","Color": "White","Price": "20000", "image": ""},
+  "Cars": [
+    { "Brand": "BMW"posts, "Type": "M4","Color": "White","Price": "20000", "image": ""},
     { "SKODA": "BMW", "Type": "FABIA ","Color": "White","Price": "30000","image": ""}
   ]
 }
